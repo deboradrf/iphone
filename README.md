@@ -2,7 +2,7 @@
 
 ### 📚 Descrição
 Esse projeto simula uma página da web de venda de um iPhone. <br>
-Desenvolvido em HTML, CSS e JavaScript.
+Desenvolvido em HTML, CSS e JavaScript, para fixação de conteúdo.
 
 ### 📁 Acesso
 Hospedado no Netlify <br>
